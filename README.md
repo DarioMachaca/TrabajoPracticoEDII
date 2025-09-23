@@ -1,2 +1,9 @@
 # TrabajoPracticoEDII
-Sitio web Html
+Sitio web de practica **Html**
+
+## Contenido 
+- Pagina Principal
+
+## Autor
+- Dario Machaca
+
